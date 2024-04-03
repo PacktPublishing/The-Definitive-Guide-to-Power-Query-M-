@@ -26,7 +26,7 @@ By the end of this book, you will be able to leverage all of Power Query’s rem
 
 ## Outline and Chapter Summary
 
-This book covers the best practices and approaches for software architects and engineers when developing .NET 8 and C# 12 solutions, along with the most up-to-date cloud environments and tools for effective app development, delivery, and deployment.
+Mastering Data transformation is essential for enhancing their data models and business intelligence. The Definitive Guide to Power Query equips you with the knowledge and skills to master the tool while leveraging its remarkable capabilities.
 
 
 1. Introducing M
@@ -48,7 +48,7 @@ This book covers the best practices and approaches for software architects and e
 
 
 
-> If you feel this book is for you, get your [copy](https://www.amazon.com/Software-Architecture-NET-applications-microservices/dp/1805127659/ref=sr_1_1?crid=3IT6Q0L6WBAS6&dib=eyJ2IjoiMSJ9.KjpfB3iXW4TAMT6ZncBx3Q.SYf7HDO_dskWy1WNw9B1BDchTkAaeKP0oULsGz_NIl8&dib_tag=se&keywords=9781805127659&qid=1709013982&sprefix=9781805127659%2Caps%2C564&sr=8-1) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+> If you feel this book is for you, get your [copy](https://www.amazon.com/Definitive-Guide-Power-Query-Transformation/dp/1835089720/ref=sr_1_1?crid=2UM82YUS4IWFM&dib=eyJ2IjoiMSJ9.WyzGyckwFVlUY3v5UAE-E25BjnuOKq3uvaO-3bF-B9xWoIjNWOuKb1DRfUiH8R2Ao7-2vJJ2TGg2dNXCDN4SdYt1NyqFXzCdqGXVG2D7vvIWrFjoM6Z9OmJUS7iOU4JddSBCrorxRb27JHBWFuak7sbY4fDmH1CKqwcPrZ3T6oij4UnS2EP62nMerl9TUTXZo0x7g2mbtMOuSgJXsvcGQuYpg34U9djaKLkJ_gVoQjc.TFSmSRn15e2gBC78wFEg2eTC3bOj92T7hH-4brd_LFA&dib_tag=se&keywords=The+Definitive+Guide+to+Power+Query+%28M%29%2C+First+Edition&qid=1712113108&sprefix=the+definitive+guide+to+power+query+m+%2C+first+edition%2Caps%2C431&sr=8-1) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 
 With the following software and hardware list you can run all code files present in the book (Chapter number mention here).
