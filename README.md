@@ -84,3 +84,6 @@ _Melissa de Korte_ is a passionate problem-solver known for simplifying complex 
 ## Other Related Books
 - [Extending Power BI with Python and R - Second Edition](https://www.packtpub.com/product/extending-power-bi-with-python-and-r-second-edition/9781837639533)
 - [Expert Data Modeling with Power BI - Second Edition](https://www.packtpub.com/product/expert-data-modeling-with-power-bi-second-edition/9781803246246)
+
+## Errata
+- Number.NegativeInfinity: This returns a constant value that represents 1 divided by 0. should be Number.NegativeInfinity: This returns a constant value that represents -1 divided by 0. on Page 117.
