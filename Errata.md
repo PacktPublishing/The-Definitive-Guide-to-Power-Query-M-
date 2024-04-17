@@ -29,3 +29,4 @@
 
 - Page 378 has: 
   On line 3 the variable is called 'List'. It should be called 'FilteredList'
+- Page 126 Topic:Accessing Files and folders. Here in the first paragraph, we intended to refer to table 3.1 not 7.1
